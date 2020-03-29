@@ -7,5 +7,3 @@ output: html_document
 
 
 ## This is a markdown file
-
-### What I have learned from the Data Scientist's Toolbox Course
